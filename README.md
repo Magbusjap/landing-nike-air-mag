@@ -3,11 +3,11 @@
 Продуктовая страница кроссовок Nike Air Mag с выбором размера, характеристиками и слайдером изображений.
 Проект реализован для портфолио сайта [bozheslav.ru](https://bozheslav.ru) — [GitHub](https://github.com/Magbusjap/bozheslav.ru).
 
-![Превью](assets/Preview%20Double%20Lending%20Fit%20Studio.png)
+![Превью](assets/Preview%20Lending%20Nike%20Air%20Mag.png)
 
 ## 🔗 Live Demo
 
-[Открыть демо](https://bozheslav.ru/portfolio/landing-nike-air-mag/)
+[Открыть демо](https://bozheslav.ru/portfolio/lending-nike-air-mag/)
 
 ## Стек
 
