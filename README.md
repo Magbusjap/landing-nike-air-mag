@@ -8,7 +8,6 @@
 ## 🔗 Live Demo
 
 [Открыть демо](https://bozheslav.ru/portfolio/lending-nike-air-mag/)
-<a href="https://bozheslav.ru/portfolio/double-lending-fit-studio/" target="_blank">Открыть демо</a>
 
 ## Стек
 
